@@ -26,5 +26,4 @@ function validateExamDate(elem) {
         elem.classList.add("is-invalid")
         elem.classList.remove("is-valid")
     }
-    //console.log(examDate);
 }
